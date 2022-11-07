@@ -29,4 +29,4 @@ btnPrev.addEventListener("click", function() {
 
 function ciao(){
     alert("Belin");
-}
+} 
